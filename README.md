@@ -1,2 +1,2 @@
 # myneo4j
-Graph database analysis using the Neo4j platform
+The purpose of this repo project is to better understand relastionships using the Neo4j platform.
